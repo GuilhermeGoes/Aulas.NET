@@ -1,0 +1,13 @@
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\bin\Debug\Projeto01_CadastoEscolas.exe.config
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\bin\Debug\Projeto01_CadastoEscolas.exe
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\bin\Debug\Projeto01_CadastoEscolas.pdb
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\bin\Debug\Projeto02_AcessoDados.dll
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\bin\Debug\Projeto02_AcessoDados.pdb
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.csprojAssemblyReference.cache
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.FormCadastro.resources
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.Properties.Resources.resources
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.csproj.GenerateResource.cache
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.csproj.CoreCompileInputs.cache
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.csproj.CopyComplete
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.exe
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEscolas\Projeto01_CadastoEscolas\obj\Debug\Projeto01_CadastoEscolas.pdb

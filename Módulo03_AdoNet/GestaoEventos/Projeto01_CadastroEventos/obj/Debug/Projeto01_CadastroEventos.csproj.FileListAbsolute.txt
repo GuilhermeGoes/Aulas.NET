@@ -1,0 +1,13 @@
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\bin\Debug\Projeto01_CadastroEventos.exe.config
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\bin\Debug\Projeto01_CadastroEventos.exe
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\bin\Debug\Projeto01_CadastroEventos.pdb
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.csprojAssemblyReference.cache
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.FormCadastro.resources
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.Properties.Resources.resources
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.csproj.GenerateResource.cache
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.csproj.CoreCompileInputs.cache
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.exe
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.pdb
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\bin\Debug\Projeto02.AcessoDados.dll
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\bin\Debug\Projeto02.AcessoDados.pdb
+C:\Users\Ta0505\Documents\Sinqia_AspNet\Módulo03_AdoNet\GestaoEventos\Projeto01_CadastroEventos\obj\Debug\Projeto01_CadastroEventos.csproj.CopyComplete
